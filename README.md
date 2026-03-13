@@ -1,2 +1,2 @@
 # TENTANDO-PROGRAMAR-
-Bom, nesse aqui eu estarei tentando fazer uma programação pra jogar em um site 
+Bom, aqui será os meus testes mesmo.
